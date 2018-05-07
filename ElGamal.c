@@ -1,4 +1,4 @@
-// 高速指数演算法を用いたDiffie_Hellman鍵配送方式及び、ElGamal暗号のプログラム
+// 高速指数演算法を用いたDiffie_Hellman鍵配送方式及び、ElGamal暗号のプログラム 
 
 #include <stdio.h>
 #include <math.h>
