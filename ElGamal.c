@@ -125,7 +125,6 @@ long Euclid(long a,long n){
 }
 
 /*実行結果
-horiyukinoMacBook-Pro:OneDrive horiyuki$ ./ElGamal
 平文  :1456
 共通鍵:512
 暗号文:24598
